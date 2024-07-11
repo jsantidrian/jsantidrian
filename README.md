@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Javier Santidrián Salas and I am a Mathematical Engineering and Data Science student at University of Chile.
+Hello! My name is Javier Santidrián Salas and I am a Data Science and Mathematical Engineering student at University of Chile.
 
 About Me:
 
